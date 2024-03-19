@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-public class SimpleMathTest {
+public class SimpleMathBDDTest {
 
     @Test
     @DisplayName("6.4 + 2.0 = 8.4")
