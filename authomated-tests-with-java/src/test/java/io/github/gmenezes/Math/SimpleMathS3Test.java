@@ -5,7 +5,7 @@ import org.junit.jupiter.api.*;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
-public class SimpleMathAssertExecptTest {
+public class SimpleMathS3Test {
 
     SimpleMath math;
     Double firstNumber;
